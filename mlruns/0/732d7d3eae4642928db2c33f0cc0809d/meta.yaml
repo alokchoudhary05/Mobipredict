@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Seoul%20Bike%20Share%20Demand%20Prediction/mlruns/0/732d7d3eae4642928db2c33f0cc0809d/artifacts
+end_time: 1743689173866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 732d7d3eae4642928db2c33f0cc0809d
+run_name: sneaky-skink-507
+run_uuid: 732d7d3eae4642928db2c33f0cc0809d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743689165803
+status: 3
+tags: []
+user_id: alokk
